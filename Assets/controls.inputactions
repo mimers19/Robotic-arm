@@ -1,0 +1,45 @@
+{
+    "name": "controls",
+    "maps": [
+        {
+            "name": "BasicInput",
+            "id": "98595c7b-0c81-4683-ab01-64229e52d536",
+            "actions": [
+                {
+                    "name": "Axis1Rotation",
+                    "type": "Button",
+                    "id": "ed27c49c-9a9f-4b24-a3ac-84b75f934a03",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "8e085885-83cf-4875-b3a1-e1d8990185e1",
+                    "path": "<Keyboard>/q",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Axis1Rotation",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "e9cee225-9757-4cd0-be84-e06f25485ddc",
+                    "path": "<Keyboard>/w",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Axis1Rotation",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
